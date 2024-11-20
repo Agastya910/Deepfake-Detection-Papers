@@ -2,11 +2,13 @@
 
 ### Papers on detection of GAN generated images
 [Do  GANs leave artificial fingerprint 2019, MPIR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8695364)<br>
+
 [Leveraging Frequency Analysis for Deep Fake Image Recognition, 2020 PMLR](https://proceedings.mlr.press/v119/frank20a)<br>
+
 [CNN-generated images are surprisingly easy to spot... for now, CVPR 2020](https://arxiv.org/abs/1912.11035)<br>
 
 
-> Methods introduced:
+Methods introduced:
 > digital forensics
 > digital fingerprints
 
