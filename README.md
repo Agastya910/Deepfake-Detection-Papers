@@ -26,11 +26,11 @@ Methods introduced:
 ### Datasets for fake face detection
 
 
->> Real face images
+> Real face images
 
 [Nvidia's FFHQ dataset from flickr](https://github.com/NVlabs/ffhq-dataset)
 
->> Fake face images dataset
+> Fake face images dataset
 
 [DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face
 Forgery Analysis arxiv 2024 (diffusion model generated) ](https://arxiv.org/abs/2403.18471v1)
