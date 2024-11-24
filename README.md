@@ -1,7 +1,7 @@
 ### Tools for creating face deepfakes in context
 > [Towards a Simultaneous and Granular Identity-Expression Control in
 Personalized Face Generation, 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Towards_a_Simultaneous_and_Granular_Identity-Expression_Control_in_Personalized_Face_CVPR_2024_paper.pdf)<br>
-> > [Fine-Grained Face Swapping via Regional GAN Inversion, 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Fine-Grained_Face_Swapping_via_Regional_GAN_Inversion_CVPR_2023_paper.pdf) <br>
+> [Fine-Grained Face Swapping via Regional GAN Inversion, 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Fine-Grained_Face_Swapping_via_Regional_GAN_Inversion_CVPR_2023_paper.pdf) <br>
 > [Deep Face Lab, 2021](https://github.com/iperov/DeepFaceLab) <br>
 
 ### Dataset containing face swap images
