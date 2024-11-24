@@ -6,6 +6,16 @@
 ### Tools for creating face deepfakes in context
 > [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
 
+### Existing works on deepfake face detection in videos and images (2024)
+>[LampMark: Proactive Deepfake Detection via Training-Free
+Landmark Perceptual Watermarks](https://dl.acm.org/doi/pdf/10.1145/3664647.3680869)
+>[Gotcha: Real-Time Video Deepfake Detection via Challenge-Response](https://ieeexplore.ieee.org/abstract/document/10629014)
+
+A description of the Real time deepfake generation pipeline as described in Gotcha: Real-Time Video Deepfake Detection via Challenge-Response
+![image](https://github.com/user-attachments/assets/384355bc-eb1c-46c3-8748-4241cb15d5ec)
+
+
+
 ### Papers on detection of GAN generated images
 [Do  GANs leave artificial fingerprint 2019, MPIR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8695364)<br>
 
