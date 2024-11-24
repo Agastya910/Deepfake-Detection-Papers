@@ -4,7 +4,8 @@
 > dataset url [JUNE 25, 2020 Deepfake Detection Challenge Dataset](https://ai.meta.com/datasets/dfdc/)
 
 ### Tools for creating face deepfakes in context
-> [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
+> [Deep Face Lab, 2021](https://github.com/iperov/DeepFaceLab)
+> [Fine-Grained Face Swapping via Regional GAN Inversion](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Fine-Grained_Face_Swapping_via_Regional_GAN_Inversion_CVPR_2023_paper.pdf)
 
 ### Existing works on deepfake face detection in videos and images (2024)
 >[LampMark: Proactive Deepfake Detection via Training-Free
