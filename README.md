@@ -1,3 +1,6 @@
+### Dataset containing face swap images
+> [The deepfake detection challenge (dfdc) dataset, 2020](https://scholar.google.com/scholar_url?url=https://arxiv.org/abs/2006.07397&hl=en&sa=T&oi=gsr-r&ct=res&cd=0&d=16751943499163002168&ei=HI5CZ9rAIeG86rQP-4Db8Qo&scisig=AFWwaebB3BNK9Hco7HIXgFBlR2u7)
+
 ### Tools for creating face deepfakes in context
 > [Deep Face Lab](https://github.com/iperov/DeepFaceLab)
 
