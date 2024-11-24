@@ -1,11 +1,13 @@
+### Tools for creating face deepfakes in context
+> [Towards a Simultaneous and Granular Identity-Expression Control in
+Personalized Face Generation, 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Towards_a_Simultaneous_and_Granular_Identity-Expression_Control_in_Personalized_Face_CVPR_2024_paper.pdf)<br>
+> > [Fine-Grained Face Swapping via Regional GAN Inversion, 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Fine-Grained_Face_Swapping_via_Regional_GAN_Inversion_CVPR_2023_paper.pdf) <br>
+> [Deep Face Lab, 2021](https://github.com/iperov/DeepFaceLab) <br>
+
 ### Dataset containing face swap images
 > [The deepfake detection challenge (dfdc) dataset, 2020](https://scholar.google.com/scholar_url?url=https://arxiv.org/abs/2006.07397&hl=en&sa=T&oi=gsr-r&ct=res&cd=0&d=16751943499163002168&ei=HI5CZ9rAIeG86rQP-4Db8Qo&scisig=AFWwaebB3BNK9Hco7HIXgFBlR2u7)
  Description: The DFDC dataset is by far the largest currently and publicly available face swap video dataset, with over 100,000 total clips sourced from 3,426 paid actors, produced with several Deepfake, GAN-based, and non-learned methods.
 > dataset url [JUNE 25, 2020 Deepfake Detection Challenge Dataset](https://ai.meta.com/datasets/dfdc/)
-
-### Tools for creating face deepfakes in context
-> [Deep Face Lab, 2021](https://github.com/iperov/DeepFaceLab) <br>
-> [Fine-Grained Face Swapping via Regional GAN Inversion](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Fine-Grained_Face_Swapping_via_Regional_GAN_Inversion_CVPR_2023_paper.pdf)
 
 ### Existing works on deepfake face detection in videos and images (2024)
 >[LampMark: Proactive Deepfake Detection via Training-Free
