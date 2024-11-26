@@ -5,10 +5,11 @@ Personalized Face Generation, 2024](https://openaccess.thecvf.com/content/CVPR20
 > [Deep Face Lab, 2021](https://github.com/iperov/DeepFaceLab) <br>
 
 ### Dataset containing face swap images
+> [AV-Deepfake1M, 2024](https://github.com/ControlNet/AV-Deepfake1M) They also hosted the deepfake detection challenge on October 28 this year, here is the link to the challenge: [1M-Deepfakes Detection Challenge ACM Multimedia 2024 Oct 28, Melbourne](https://deepfakes1m.github.io/)
 > [The deepfake detection challenge (dfdc) dataset, 2020](https://scholar.google.com/scholar_url?url=https://arxiv.org/abs/2006.07397&hl=en&sa=T&oi=gsr-r&ct=res&cd=0&d=16751943499163002168&ei=HI5CZ9rAIeG86rQP-4Db8Qo&scisig=AFWwaebB3BNK9Hco7HIXgFBlR2u7)
- Description: The DFDC dataset is by far the largest currently and publicly available face swap video dataset, with over 100,000 total clips sourced from 3,426 paid actors, produced with several Deepfake, GAN-based, and non-learned methods.
-> dataset url [JUNE 25, 2020 Deepfake Detection Challenge Dataset](https://ai.meta.com/datasets/dfdc/)
-
+ Description: The DFDC dataset is by far the largest currently and publicly available face swap video dataset, with over 100,000 total clips sourced from 3,426 paid actors, produced with several Deepfake, GAN-based, and non-learned methods. dataset url [JUNE 25, 2020 Deepfake Detection Challenge Dataset](https://ai.meta.com/datasets/dfdc/)
+> [DF TIMIT, 2018](https://arxiv.org/pdf/1812.08685)
+> [Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics, 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Celeb-DF_A_Large-Scale_Challenging_Dataset_for_DeepFake_Forensics_CVPR_2020_paper.pdf)
 ### Existing works on deepfake face detection in videos and images (2024)
 >[LampMark: Proactive Deepfake Detection via Training-Free
 Landmark Perceptual Watermarks](https://dl.acm.org/doi/pdf/10.1145/3664647.3680869)
