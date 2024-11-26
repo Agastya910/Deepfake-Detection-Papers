@@ -11,10 +11,13 @@ Personalized Face Generation, 2024](https://openaccess.thecvf.com/content/CVPR20
  Description: The DFDC dataset is by far the largest currently and publicly available face swap video dataset, with over 100,000 total clips sourced from 3,426 paid actors, produced with several Deepfake, GAN-based, and non-learned methods. dataset url [JUNE 25, 2020 Deepfake Detection Challenge Dataset](https://ai.meta.com/datasets/dfdc/)<br>
 > [DF TIMIT, 2018](https://arxiv.org/pdf/1812.08685) <br>
 > [Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics, 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Celeb-DF_A_Large-Scale_Challenging_Dataset_for_DeepFake_Forensics_CVPR_2020_paper.pdf) <br>
+
 ### Existing works on deepfake face detection in videos and images (2024)
 >[LampMark: Proactive Deepfake Detection via Training-Free
 Landmark Perceptual Watermarks](https://dl.acm.org/doi/pdf/10.1145/3664647.3680869)
 >[Gotcha: Real-Time Video Deepfake Detection via Challenge-Response](https://ieeexplore.ieee.org/abstract/document/10629014)
+>[Fake It till You Make It: Curricular Dynamic Forgery Augmentations Towards General Deepfake Detection, ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-73016-0_7)
+> [Common Sense Reasoning for Deepfake Detection, ECCV 2024](https://link.springer.com/chapter/10.1007/978-3-031-73223-2_22)
 
 A description of the Real time deepfake generation pipeline as described in Gotcha: Real-Time Video Deepfake Detection via Challenge-Response
 ![image](https://github.com/user-attachments/assets/384355bc-eb1c-46c3-8748-4241cb15d5ec)
