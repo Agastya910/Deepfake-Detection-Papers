@@ -3,6 +3,7 @@
 Personalized Face Generation, 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Towards_a_Simultaneous_and_Granular_Identity-Expression_Control_in_Personalized_Face_CVPR_2024_paper.pdf)<br>
 > [Fine-Grained Face Swapping via Regional GAN Inversion, 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Fine-Grained_Face_Swapping_via_Regional_GAN_Inversion_CVPR_2023_paper.pdf) <br>
 > [Deep Face Lab, 2021](https://github.com/iperov/DeepFaceLab)  Research paper:[DeepFaceLab: Integrated, flexible and extensible face-swapping framework](https://arxiv.org/pdf/2005.05535)<br>
+> [FaceSwap](https://github.com/deepfakes/faceswap/) a sub repository of the deep face lab from the [Deep Face Lab 2.0](https://www.deepfakevfx.com/guides/deepfacelab-2-0-guide/)
 
 ### Dataset containing face swap images
 > [AV-Deepfake1M, 2024](https://github.com/ControlNet/AV-Deepfake1M) They also hosted the deepfake detection challenge on October 28 this year, here is the link to the challenge: [1M-Deepfakes Detection Challenge ACM Multimedia 2024 Oct 28, Melbourne](https://deepfakes1m.github.io/)<br>
